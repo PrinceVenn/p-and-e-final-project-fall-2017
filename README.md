@@ -35,6 +35,7 @@ USB for conecting Flora to laptop (X)
 ## Challenges
 
 I feel like the hardest part of this assignment for me was the coding of the lights and the intergration of the light sensors. I have experience with using conductive thread, sewable electronics and LED's together, but this will be my first time creating something using both coding and sewing. The coding for the light sensor was very complicated and I had a lot of trouble getting it to connect to the lights. I also had trouble with my timing because I had to re-sew the conductive thread whenever it got too loose, and this took up a lot of my time.
+I ended up losing my code in the end, so my light sensor is no longer in contact with my lights.
 
 
 ## Timeline
@@ -43,8 +44,8 @@ What did you do in each of the past five weeks?
 
 - Week 1: Write proposal
 - Week 2: Finished deciding on idea and started ordering parts that I needed.
-- Week 3: Practiced sewing with conductive thread, ordered different lights, Begin
-- Week 4:
+- Week 3: Practiced sewing with conductive thread, ordered different lights, Finalized the toy's design and create it.
+- Week 4: Make sure all lights work and are coded to work with the light sensor, tighten wires where needed.
 - Week 5: Present!
 
 ## Completed Work
